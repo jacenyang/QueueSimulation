@@ -1,0 +1,10 @@
+C:\Users\jason\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\jason\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\jason\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\jason\source\repos\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\jason\source\repos\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\jason\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\jason\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\jason\source\repos\Project\Project\obj\Debug\Project.pdb
