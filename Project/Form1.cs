@@ -51,12 +51,12 @@ namespace Project
 
             }         
 
-            waktu += 60;
-            label2.Text = waktu.ToString();
-            nomor++;
-
             if (antriNama.Count < 5 && antriWaktu.Count < 5)
             {
+                waktu += 60;
+                label2.Text = waktu.ToString();
+                nomor++;
+
                 label1.Text = "";
                 antriNama.Enqueue(textBox1.Text.ToString());
                 foreach (string a in antriNama)
